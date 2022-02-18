@@ -15,6 +15,11 @@ OpenMW also comes with OpenMW-CS, a replacement for Bethesda's Construction Set.
 Font Licenses:
 * DejaVuLGCSansMono.ttf: custom (see [files/mygui/DejaVuFontLicense.txt](https://gitlab.com/OpenMW/openmw/-/raw/master/files/mygui/DejaVuFontLicense.txt) for more information)
 
+Hackathon Goals
+--------------
+
+https://docs.google.com/document/d/1432hafH7FYwoIq2HongXx2fGz1YllRcmlt0W7gnlwnI/edit
+
 Current Status
 --------------
 
